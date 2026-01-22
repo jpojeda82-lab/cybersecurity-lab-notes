@@ -23,6 +23,3 @@ To reinforce cybersecurity fundamentals through practical labs and to document *
 - Web application security concepts
 - Privilege escalation reasoning
 - Security-focused problem solving
-
-## Disclaimer
-These notes are for educational purposes only.
